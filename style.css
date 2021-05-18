@@ -18,7 +18,7 @@ header{
 }
 header .name{
     float: left;
-    width: 840px;
+    width: calc(100% - 500px);
     text-align: center;
     margin: 0 auto;
 }
