@@ -12,6 +12,7 @@ body{
     background-color: rgba(121, 117, 117, 0.2) ;
 }
 header{
+    permissions-policy: interest-cohort=()
     height: 500px;
     width: 100%;
     background-color: rgba(121, 117, 117, 0.2) ;
