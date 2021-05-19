@@ -5,6 +5,8 @@
 }
 body{
     width: 100vw;
+    height: 100%;
+    background-color: rgba(121, 117, 117, 0.2) ;
 }
 .all{
     width: 100%;
