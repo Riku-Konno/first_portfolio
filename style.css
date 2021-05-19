@@ -46,6 +46,7 @@ header p{
 .greet p{
     font-family: "DIN Condensed";
     color: #171A41;
+    padding-bottom; 50px;
     font-size: 30px;
 }
 .main{
