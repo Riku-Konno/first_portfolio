@@ -47,7 +47,7 @@ header p{
 }
 .main{
     width: 1350px;
-    height: 100%;
+    height: auto;
     overflow: hidden;
     text-align: center;
     margin: 0 auto;
