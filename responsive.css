@@ -81,6 +81,13 @@
         padding-top: 20px;
 
     }
+    
+    .main-content:active .inner{
+        transform: rotateY(180deg);
+    }
+    .main-content:nth-last-child():active{
+        width: 300px;
+    }
 
 }
 
