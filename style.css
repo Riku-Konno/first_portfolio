@@ -57,6 +57,7 @@ header p{
     margin: 0 auto;
 }
 .main-content{
+    z-index: 10000;
     width: 450px;
     height: 450px;
     background-color: transparent;
