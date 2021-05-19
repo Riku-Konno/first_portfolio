@@ -112,7 +112,8 @@ header p{
     transition-property: width;
     transition-duration: 1s;
 }
-.message:hover{
+.message:hover,
+.message:active{
     width: 1150px;
 }
 .m-des{
