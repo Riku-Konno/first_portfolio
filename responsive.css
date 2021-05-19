@@ -74,7 +74,8 @@
     .message{
         transition-property: none;
     }
-    .message:hover{
+    .message:hover,
+    .message:active{
         width: 300px;
     }
     .m-des{
