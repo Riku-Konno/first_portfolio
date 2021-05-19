@@ -104,7 +104,7 @@ header p{
 }
 
 .main-content:hover .inner,
-.main-content:focus .inner{
+.main-content:active .inner{
     transform: rotateY(180deg);
 }
 
