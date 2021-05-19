@@ -71,9 +71,6 @@
     .main-content:focus .inner{
         transform: rotateY(180deg);
     }
-    .message{
-        transition-property: none;
-    }
     .message:hover,
     .message:active{
         width: 300px;
